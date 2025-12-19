@@ -1,0 +1,18 @@
+# Build artifacts
+**/build/
+**/Debug/
+**/Release/
+
+# Binaries
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
