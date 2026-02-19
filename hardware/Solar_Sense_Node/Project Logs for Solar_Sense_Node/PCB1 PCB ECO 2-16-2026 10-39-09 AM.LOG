@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=BT? Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Component Footprint: Designator=BT? Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Component Footprint: Designator=MD? Old Footprint=FP-ESP32-WROOM-32-MFG New Footprint=FP-ESP32-WROOM-32U_16MB-MFG
+Change Component Comment : Designator=MD? Old Comment=ESP32-WROOM-32 New Comment=ESP32-WROOM-32U (16MB)
+Change Managed Component Library Link : Designator=MD? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=068159E9-6A16-4632-8AA3-C7A5DA25CCDA New ItemGUID=502F68D8-B262-4D54-9618-9F8F864A7ADC Old RevisionGUID=C423BAE3-C065-42CB-8A58-CB6F52FF0E5F New RevisionGUID=45CF9796-D7AD-400F-B1BC-A6B8F70EBB8F
+Change component parameters: Designator = "MD?" ("MD?"); Footprint = "FP-ESP32-WROOM-32-MFG"; UniqueID = "\DPSXEJBD" ("\DPSXEJBD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data Rate"; Value = "150Mbps"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2.5GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Size"; Value = "536KB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensitivity"; Value = "-98dBm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component BT? 18650
+Added Member To Class: ClassName=Main Member=Component U? TLV74333PDBVR
+Added Member To Class: ClassName=Main Member=Component U? TLV74333PDBVR
+Added Member To Class: ClassName=Main Member=Component U? TLV74333PDBVR
+Added Member To Class: ClassName=Main Member=Component U? LIS2DH12TR
