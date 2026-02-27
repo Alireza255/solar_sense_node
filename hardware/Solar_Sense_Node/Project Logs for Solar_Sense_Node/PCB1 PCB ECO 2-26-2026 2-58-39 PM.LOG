@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=BT1 Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Component Footprint: Designator=BT2 Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Added Component: Designator=H1(P3.0C)
+Added Component: Designator=H2(P3.0C)
+Added Component: Designator=H3(P3.0C)
+Added Component: Designator=H4(P3.0C)
+Added Component: Designator=H5(P3.0C)
+Added Component: Designator=H6(P3.0C)
+Added Pin To Net: NetName=SHIELD Pin=H1-P
+Added Pin To Net: NetName=SHIELD Pin=H2-P
+Added Pin To Net: NetName=SHIELD Pin=H3-P
+Added Pin To Net: NetName=SHIELD Pin=H4-P
+Added Pin To Net: NetName=SHIELD Pin=H5-P
+Added Pin To Net: NetName=SHIELD Pin=H6-P
+Added Net: Name=SHIELD
+Added Member To Class: ClassName=Main Member=Component H1 Round Pad
+Added Member To Class: ClassName=Main Member=Component H2 Round Pad
+Added Member To Class: ClassName=Main Member=Component H3 Round Pad
+Added Member To Class: ClassName=Main Member=Component H4 Round Pad
+Added Member To Class: ClassName=Main Member=Component H5 Round Pad
+Added Member To Class: ClassName=Main Member=Component H6 Round Pad

@@ -1,0 +1,6 @@
+Added Component: Designator=H7(P3.0C)
+Added Component: Designator=H8(P3.0C)
+Added Pin To Net: NetName=SHIELD Pin=H7-P
+Added Pin To Net: NetName=SHIELD Pin=H8-P
+Added Member To Class: ClassName=Main Member=Component H7 Round Pad
+Added Member To Class: ClassName=Main Member=Component H8 Round Pad
